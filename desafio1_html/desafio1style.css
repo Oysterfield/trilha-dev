@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(00,00,13);
+}
+
+h1 {
+    color: #D6D6F2;
+}
+
+p {
+    color: #D6D6F2;
+}
+
+button {
+    background-color: rgb(21,21,87);
+    color: #E2E2F5;
+    border-radius: 40%;
+    padding: 1em;
+}

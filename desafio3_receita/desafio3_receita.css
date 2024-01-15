@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    width: 1000px;
+    height: 240px;
+}
+
+#firstdiv {
+    background-color: #FEECE0;
+}
+
+h1 {
+    color: #58190A;
+    display: block;
+}
+
+h3 {
+    color: #58190A;
+    display: block;
+}
+
+h4 {
+    color: #58190A;
+    display: block;
+}
+
+#seconddiv {
+    background-color: #9B6647;
+}
+
+#pamonha {
+    width: 150px;
+    display: inline;
+}
+
+section {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#divPamonha {
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-width: 2px;
+}
