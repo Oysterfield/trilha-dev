@@ -1,0 +1,92 @@
+body {
+    background-color: #0F0D13;
+    font-family: Roboto, sans-serif;
+}
+
+div {
+    background-color: #2A2141;
+}
+
+#player1 {
+    width: 200.48px;
+    height: 498px;
+    margin-top: 66px;
+    margin-left: 191px;
+    border-radius: 9.6px;
+    padding: 38.41px;
+    gap: 28.81px;
+}
+
+#player2 {
+    width: 357.71px;
+    height: 266.68px;
+    margin-top: -573px;
+    margin-left: 489.48px;
+    border-radius: 9.6px;
+    padding: 28.81px;
+    gap: 28.81px;
+}
+
+#player3 {
+    width: 357.71px;
+    height: 199.68px;
+    margin-top: 20px;
+    margin-left: 489.48px;
+    border-radius: 9.6px;
+    padding: 28.81px;
+    gap: 28.81px;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: #E1E1E6;
+    font-size: small;
+}
+
+#img1 {
+    width: 190px;
+    height: 190px;
+    border-radius: 6px;
+}
+
+#img2, #img3 {
+    width: 84.03px;
+    height: 84.03px;
+    border-radius: 6px;
+}
+
+.button.play {
+    background-color: #2A2141;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+    border-width: 10px 0px 10px 20px;
+    border-color: transparent transparent transparent #E1E1E6;
+    border-radius: 5px;
+}
+
+svg {
+    width: 35px;
+    height: 35px;
+    color: #E1E1E6;
+}
+
+section {
+    background-color: transparent;
+    margin-top: 50px;
+}
+
+#loadingbar {
+    width: 180px;
+    height: 6px;
+    box-sizing: border-box;
+    border-width: 0px 30px 0px 0px;
+    border-color: antiquewhite antiquewhite rgb(121, 118, 116) antiquewhite;
+    border-radius: 9.6px;
+    background-color: antiquewhite;
+    margin-top: 50px;
+}
